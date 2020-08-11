@@ -1,2 +1,2 @@
 # snippets
-Code snippets prepared from scratch or curated from the internet.
+Code snippets prepared from the scratch or curated from internet.
